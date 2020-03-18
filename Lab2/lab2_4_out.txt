@@ -1,0 +1,15 @@
+The calculation is: 6427+ 1725 = 8152
+The calculation is: (6971 * 3925) - 95 = 27361080
+The calculation is: 79+12 / 5 = 81.00
+The calculation is: 3640.0 / 107.9 = 33.73
+The calculation is: (22 / 3) * 3 = 21
+The calculation is: 22 / (3 * 3) = 2
+The calculation is: 22 / (3 * 3) = 2.00
+The calculation is: 22 / 3* 3 = 
+The calculation is: (22.0 / 3) * 3.0 = 22.00
+The calculation is: 22.0 / ( 3* 3.0) = 2
+The calculation is: 22.0 / 3.0 * 3.0 = 22.00
+
+The area of a circle with a circumference of 23.567000 is 44.197605 units squared
+One foot = 0.3048 , 14 feet = 4.2672 meters
+76 degrees F = 24.44 degrees C
